@@ -1,0 +1,7 @@
+{
+    "env" : {
+        "PORT" : 8080,
+        "MONG_ATLAS_PW" : "Minh3107200",
+        "JWT_PRIVATE_KEY" : "secret"
+    }
+}
